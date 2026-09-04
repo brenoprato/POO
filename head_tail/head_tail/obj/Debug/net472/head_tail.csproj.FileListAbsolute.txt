@@ -1,0 +1,13 @@
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/bin/Debug/net472/Assets/head.png
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/bin/Debug/net472/Assets/tail.png
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/bin/Debug/net472/head_tail.exe.config
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/bin/Debug/net472/head_tail.exe
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/bin/Debug/net472/head_tail.pdb
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/net472/head_tail.Form1.resources
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/net472/head_tail.Properties.Resources.resources
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/net472/head_tail.csproj.GenerateResource.cache
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/net472/head_tail.GeneratedMSBuildEditorConfig.editorconfig
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/net472/head_tail.csproj.CoreCompileInputs.cache
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/net472/head_tail.sourcelink.json
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/net472/head_tail.exe
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/net472/head_tail.pdb

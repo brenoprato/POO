@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/BRENO/Documents/Unifesp/POO/balistica/balistica.csproj": {}
+  },
+  "projects": {
+    "/home/BRENO/Documents/Unifesp/POO/balistica/balistica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/BRENO/Documents/Unifesp/POO/balistica/balistica.csproj",
+        "projectName": "balistica",
+        "projectPath": "/home/BRENO/Documents/Unifesp/POO/balistica/balistica.csproj",
+        "packagesPath": "/home/BRENO/.nuget/packages/",
+        "outputPath": "/home/BRENO/Documents/Unifesp/POO/balistica/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/BRENO/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "/usr/lib64/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

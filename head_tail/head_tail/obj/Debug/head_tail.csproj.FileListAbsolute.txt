@@ -1,0 +1,11 @@
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/head_tail.Form1.resources
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/head_tail.Properties.Resources.resources
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/head_tail.csproj.GenerateResource.cache
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/head_tail.csproj.SuggestedBindingRedirects.cache
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/head_tail.exe.config
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/bin/Debug/head_tail.exe.config
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/bin/Debug/head_tail.exe
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/bin/Debug/head_tail.pdb
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/head_tail.csproj.CoreCompileInputs.cache
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/head_tail.exe
+/home/BRENO/Documents/Unifesp/POO/head_tail/head_tail/obj/Debug/head_tail.pdb

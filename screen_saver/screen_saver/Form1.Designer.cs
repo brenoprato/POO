@@ -3,14 +3,14 @@ namespace screen_saver
     partial class Form1
     {
         /// <summary>
-        /// Variável de designer necessária.
+        /// Variavel de designer necessaria.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Limpar os recursos que estão sendo usados.
+        /// Limpar os recursos que estao sendo usados.
         /// </summary>
-        /// <param name="disposing">true se for necessário descartar os recursos gerenciados; caso contrário, false.</param>
+        /// <param name="disposing">true se for necessario descartar os recursos gerenciados; caso contrario, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,16 +20,15 @@ namespace screen_saver
             base.Dispose(disposing);
         }
 
-        #region Código gerado pelo Windows Form Designer
+        #region Codigo gerado pelo Windows Form Designer
 
         /// <summary>
-        /// Método necessário para suporte ao Designer - não modifique 
-        /// o conteúdo deste método com o editor de código.
+        /// Metodo necessario para suporte ao Designer - nao modifique 
+        /// o conteudo deste metodo com o editor de codigo.
         /// </summary>
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.pct = new System.Windows.Forms.PictureBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pct)).BeginInit();
@@ -38,7 +37,6 @@ namespace screen_saver
             // pct
             // 
             this.pct.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.pct.Image = ((System.Drawing.Image)(resources.GetObject("pct.Image")));
             this.pct.Location = new System.Drawing.Point(329, 130);
             this.pct.Name = "pct";
             this.pct.Size = new System.Drawing.Size(142, 190);

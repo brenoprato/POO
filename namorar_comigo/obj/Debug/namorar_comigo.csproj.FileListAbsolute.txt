@@ -1,0 +1,5 @@
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/bin/Debug/namorar_comigo.exe
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/bin/Debug/namorar_comigo.pdb
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/obj/Debug/namorar_comigo.csproj.CoreCompileInputs.cache
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/obj/Debug/namorar_comigo.exe
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/obj/Debug/namorar_comigo.pdb

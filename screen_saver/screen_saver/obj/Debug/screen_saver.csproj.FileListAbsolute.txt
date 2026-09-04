@@ -1,0 +1,158 @@
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/obj/Debug/screen_saver.Form1.resources
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/obj/Debug/screen_saver.Properties.Resources.resources
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/obj/Debug/screen_saver.csproj.GenerateResource.cache
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/8 ball.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/abstract joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/acrobat.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/ancient joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/arrowhead.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/astronomer.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/banner.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/baron.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/baseball card.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/blackboard.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/bloodstone.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/blue joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/blueprint.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/bootstraps.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/brainstorm.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/bull.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/burglar.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/burnt joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/business card.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/caino.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/campfire.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/card sharp.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/cartomancer.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/castle.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/cavendish.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/ceremonial dagger.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/certificate.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/chaos the clown.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/chicot.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/clever joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/cloud 9.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/constellation.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/crafty joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/crazy joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/credit card.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/delayed gratification.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/devious joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/diet cola.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/dna.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/driver.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/droll joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/drunkard.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/dusk.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/egg.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/erosion.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/even steven.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/faceless joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/fibonacci.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/flash card.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/flower pot.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/fortune teller.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/four fingers.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/gift card.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/glass joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/gluttonous joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/golden joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/golden ticket.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/greedy joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/green joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/gros michel.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/hack.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/half joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/hallucination.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/hanging chad.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/hiker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/hit the road.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/hologram.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/ice cream.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/invisible joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/joker stencil.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/jolly joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/juggler.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/loyalty card.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/luchador.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/lucky cat.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/lusty joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/mad joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/madness.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/mail-in rebate.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/marble joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/matador.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/merry andy.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/midas mask.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/mime.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/misprint.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/mr. bones.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/mystic summit.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/obelisk.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/odd todd.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/onyx agate.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/oops! all 6s.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/pareidolia.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/perkeo.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/photograph.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/popcorn.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/raised fist.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/ramen.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/red card.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/reserved parking.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/ride the bus.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/riff-raff.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/rocket.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/rough gem.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/runner.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/satellite.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/scary face.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/scholar.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/seance.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/seeing double.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/seltzer.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/shoot the moon.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/shortcut.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/showman.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/sixth sense.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/sly joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/smeared joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/smiley face.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/sock and buskin.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/space joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/spare trousers.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/splash.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/square joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/steel joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/stone joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/stuntman.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/supernova.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/superposition.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/swashbuckler.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/the duo.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/the family.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/the idol.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/the order.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/the tribe.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/the trio.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/throwback.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/to do list.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/to the moon.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/trading card.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/triboulet.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/troubadour.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/turtle bean.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/vagabond.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/vampire.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/walkie talkie.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/wee joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/wily joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/wrathful joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/yorick.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/Assets/jokers/zany joker.png
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/screen_saver.exe
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/bin/Debug/screen_saver.pdb
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/obj/Debug/screen_saver.csproj.CoreCompileInputs.cache
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/obj/Debug/screen_saver.exe
+/home/BRENO/Documents/Unifesp/POO/screen_saver/screen_saver/obj/Debug/screen_saver.pdb

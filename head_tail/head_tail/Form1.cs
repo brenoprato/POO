@@ -1,5 +1,6 @@
 using System;
 using System.Drawing;
+using System.IO;
 using System.Windows.Forms;
 
 namespace head_tail
@@ -18,7 +19,38 @@ namespace head_tail
         {
             InitializeComponent();
             _coin = new Coin(CoinSide.Heads);
+            LoadCoinVisuals();
             UpdateCoinDisplay(CoinSide.Heads);
+        }
+
+        // Carrega as imagens de cara e coroa da pasta de Assets
+        private void LoadCoinVisuals()
+        {
+            string baseDir = AppDomain.CurrentDomain.BaseDirectory;
+            string headPath = Path.Combine(baseDir, "Assets", "head.png");
+            string tailPath = Path.Combine(baseDir, "Assets", "tail.png");
+
+            if (!File.Exists(headPath))
+            {
+                headPath = Path.Combine(baseDir, "..", "..", "Assets", "head.png");
+                tailPath = Path.Combine(baseDir, "..", "..", "Assets", "tail.png");
+            }
+
+            if (File.Exists(headPath))
+            {
+                using (var temp = Image.FromFile(headPath))
+                {
+                    pictureBox1.Image = new Bitmap(temp);
+                }
+            }
+
+            if (File.Exists(tailPath))
+            {
+                using (var temp = Image.FromFile(tailPath))
+                {
+                    pictureBox2.Image = new Bitmap(temp);
+                }
+            }
         }
 
         private void button1_Click_1(object sender, EventArgs e)

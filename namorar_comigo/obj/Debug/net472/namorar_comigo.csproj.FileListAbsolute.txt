@@ -1,0 +1,8 @@
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/obj/Debug/net472/namorar_comigo.GeneratedMSBuildEditorConfig.editorconfig
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/obj/Debug/net472/namorar_comigo.csproj.CoreCompileInputs.cache
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/obj/Debug/net472/namorar_comigo.sourcelink.json
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/bin/Debug/net472/namorar_comigo.exe.config
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/bin/Debug/net472/namorar_comigo.exe
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/bin/Debug/net472/namorar_comigo.pdb
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/obj/Debug/net472/namorar_comigo.exe
+/home/BRENO/Documents/Unifesp/POO/namorar_comigo/obj/Debug/net472/namorar_comigo.pdb

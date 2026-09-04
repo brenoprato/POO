@@ -1,0 +1,12 @@
+/home/BRENO/Documents/Unifesp/POO/balistica/bin/Debug/net472/Assets/melanpulta.png
+/home/BRENO/Documents/Unifesp/POO/balistica/bin/Debug/net472/Assets/melan_bullet.png
+/home/BRENO/Documents/Unifesp/POO/balistica/bin/Debug/net472/balistica.exe.config
+/home/BRENO/Documents/Unifesp/POO/balistica/bin/Debug/net472/balistica.exe
+/home/BRENO/Documents/Unifesp/POO/balistica/bin/Debug/net472/balistica.pdb
+/home/BRENO/Documents/Unifesp/POO/balistica/obj/Debug/net472/balistica.Form1.resources
+/home/BRENO/Documents/Unifesp/POO/balistica/obj/Debug/net472/balistica.csproj.GenerateResource.cache
+/home/BRENO/Documents/Unifesp/POO/balistica/obj/Debug/net472/balistica.GeneratedMSBuildEditorConfig.editorconfig
+/home/BRENO/Documents/Unifesp/POO/balistica/obj/Debug/net472/balistica.csproj.CoreCompileInputs.cache
+/home/BRENO/Documents/Unifesp/POO/balistica/obj/Debug/net472/balistica.sourcelink.json
+/home/BRENO/Documents/Unifesp/POO/balistica/obj/Debug/net472/balistica.exe
+/home/BRENO/Documents/Unifesp/POO/balistica/obj/Debug/net472/balistica.pdb
