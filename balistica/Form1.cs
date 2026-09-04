@@ -10,7 +10,7 @@ namespace balistica
 {
     public partial class Form1 : Form
     {
-        private const double TimeStep = 0.035;
+        private const double TimeStep = 0.02;
         private const float ScalePixelsPerMeter = 6.0f;
 
         private Projectile _projectile;
@@ -127,11 +127,18 @@ namespace balistica
                 return;
             }
 
+            double flightTime = _projectile.GetFlightTime();
             _projectile.AdvanceTime(TimeStep);
             double t = _projectile.ElapsedTime;
 
+            bool reachedGround = (t >= flightTime && flightTime > 0);
+            if (reachedGround)
+            {
+                t = flightTime;
+            }
+
             double physX = _projectile.GetPositionX(t);
-            double physY = _projectile.GetPositionY(t);
+            double physY = reachedGround ? 0 : Math.Max(0, _projectile.GetPositionY(t));
 
             // Converte coordenadas fisicas (metros) para pixels da tela (eixo Y invertido)
             float screenX = _launchOrigin.X + (float)(physX * ScalePixelsPerMeter);
@@ -143,22 +150,19 @@ namespace balistica
             pictureBoxBullet.Location = new Point((int)screenX - (pictureBoxBullet.Width / 2),
                                                  (int)screenY - (pictureBoxBullet.Height / 2));
 
-            double flightTime = _projectile.GetFlightTime();
             double maxHeight = _projectile.GetMaxHeight();
             double maxRange = _projectile.GetMaxRange();
 
             labelStats.Text = string.Format(
                 "Tempo: {0:0.00}s / {1:0.00}s | Posicao: X={2:0.0}m, Y={3:0.0}m | Hmax={4:0.0}m | Alcance={5:0.0}m",
-                t, flightTime, physX, Math.Max(0, physY), maxHeight, maxRange
+                t, flightTime, physX, physY, maxHeight, maxRange
             );
 
-            // Verifica se a bala atingiu o solo ou ultrapassou os limites da tela
-            if (physY <= 0 && t > 0.05)
+            // Finaliza a simulacao no instante exato do impacto no solo
+            if (reachedGround)
             {
                 timerSimulation.Stop();
                 _isFlying = false;
-                pictureBoxBullet.Location = new Point((int)screenX - (pictureBoxBullet.Width / 2),
-                                                     (int)_launchOrigin.Y - (pictureBoxBullet.Height / 2));
             }
 
             Invalidate();

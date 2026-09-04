@@ -7,6 +7,7 @@ namespace namorar_comigo
     public partial class Form1 : Form
     {
         private const int BoundaryPadding = 20;
+        private const int MouseSafetyMargin = 60;
         private readonly Random _random;
 
         public Form1()
@@ -30,7 +31,12 @@ namespace namorar_comigo
             RepositionNoButton();
         }
 
-        // Reposiciona o botao 'Nao' aleatoriamente garantindo que permaneca visivel e sem sobrepor outros controles
+        private void buttonNo_MouseMove(object sender, MouseEventArgs e)
+        {
+            RepositionNoButton();
+        }
+
+        // Reposiciona o botao 'Nao' garantindo que fique longe do cursor atual do mouse
         private void RepositionNoButton()
         {
             int maxX = ClientSize.Width - buttonNo.Width - BoundaryPadding;
@@ -41,17 +47,45 @@ namespace namorar_comigo
                 return;
             }
 
-            int newX;
-            int newY;
+            Point mousePos = PointToClient(Cursor.Position);
+            Rectangle mouseAvoidZone = new Rectangle(
+                mousePos.X - MouseSafetyMargin,
+                mousePos.Y - MouseSafetyMargin,
+                MouseSafetyMargin * 2,
+                MouseSafetyMargin * 2
+            );
+
+            int newX = buttonNo.Location.X;
+            int newY = buttonNo.Location.Y;
             int attempts = 0;
 
-            do
+            // Sorteia nova posicao evitando o cursor do mouse, o botao Sim e o titulo
+            while (attempts < 30)
             {
-                newX = _random.Next(BoundaryPadding, maxX);
-                newY = _random.Next(BoundaryPadding, maxY);
+                int candidateX = _random.Next(BoundaryPadding, maxX);
+                int candidateY = _random.Next(BoundaryPadding, maxY);
+                Rectangle candidateRect = new Rectangle(candidateX, candidateY, buttonNo.Width, buttonNo.Height);
+
+                bool overlapsMouse = candidateRect.IntersectsWith(mouseAvoidZone);
+                bool overlapsYes = candidateRect.IntersectsWith(buttonYes.Bounds);
+                bool overlapsTitle = candidateRect.IntersectsWith(labelTitle.Bounds);
+
+                if (!overlapsMouse && !overlapsYes && !overlapsTitle)
+                {
+                    newX = candidateX;
+                    newY = candidateY;
+                    break;
+                }
+
                 attempts++;
-            } while (attempts < 20 && (buttonYes.Bounds.IntersectsWith(new Rectangle(newX, newY, buttonNo.Width, buttonNo.Height)) ||
-                                      labelTitle.Bounds.IntersectsWith(new Rectangle(newX, newY, buttonNo.Width, buttonNo.Height))));
+            }
+
+            // Caso nao encontre uma posicao perfeita no loop, escolhe o quadrante oposto ao mouse
+            if (attempts >= 30)
+            {
+                newX = (mousePos.X < ClientSize.Width / 2) ? maxX : BoundaryPadding;
+                newY = (mousePos.Y < ClientSize.Height / 2) ? maxY : BoundaryPadding;
+            }
 
             buttonNo.Location = new Point(newX, newY);
         }

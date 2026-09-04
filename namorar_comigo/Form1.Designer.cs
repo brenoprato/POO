@@ -3,14 +3,14 @@ namespace namorar_comigo
     partial class Form1
     {
         /// <summary>
-        /// Variável de designer necessária.
+        /// Variavel de designer necessaria.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Limpar os recursos que estão sendo usados.
+        /// Limpar os recursos que estao sendo usados.
         /// </summary>
-        /// <param name="disposing">true se for necessario descartar os recursos gerenciados; caso contrário, false.</param>
+        /// <param name="disposing">true se for necessario descartar os recursos gerenciados; caso contrario, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,7 +20,7 @@ namespace namorar_comigo
             base.Dispose(disposing);
         }
 
-        #region Código gerado pelo Windows Form Designer
+        #region Codigo gerado pelo Windows Form Designer
 
         /// <summary>
         /// Metodo necessario para suporte ao Designer - nao modifique 
@@ -69,7 +69,9 @@ namespace namorar_comigo
             this.buttonNo.TabIndex = 2;
             this.buttonNo.Text = "Não";
             this.buttonNo.UseVisualStyleBackColor = false;
+            this.buttonNo.Click += new System.EventHandler(this.buttonNo_Click);
             this.buttonNo.MouseEnter += new System.EventHandler(this.buttonNo_MouseEnter);
+            this.buttonNo.MouseMove += new System.Windows.Forms.MouseEventHandler(this.buttonNo_MouseMove);
             // 
             // Form1
             // 
