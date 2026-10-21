@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/BRENO/Documents/Unifesp/POO/lista_2/atv1/teste.csproj",
+      "projectUniqueName": "/home/BRENO/Documents/Unifesp/POO/lista_2/atv7/teste.csproj",
       "projectName": "teste",
-      "projectPath": "/home/BRENO/Documents/Unifesp/POO/lista_2/atv1/teste.csproj",
+      "projectPath": "/home/BRENO/Documents/Unifesp/POO/lista_2/atv7/teste.csproj",
       "packagesPath": "/home/BRENO/.nuget/packages/",
-      "outputPath": "/home/BRENO/Documents/Unifesp/POO/lista_2/atv1/obj/",
+      "outputPath": "/home/BRENO/Documents/Unifesp/POO/lista_2/atv7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/BRENO/.nuget/NuGet/NuGet.Config"
@@ -66,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.111/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.112/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

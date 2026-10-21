@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace MyApp
 {
@@ -6,11 +6,36 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite seu nome:");
-            string nome = Console.ReadLine();
-            Console.WriteLine($"Olá, {nome}! qual é sua linguagem de programação favorita?");
-            string linguagem = Console.ReadLine();
-            Console.WriteLine($"Legal, {nome}! {linguagem} é uma ótima linguagem.");
+            
+            int n = int.Parse(Console.ReadLine());
+            int [] vec = new int[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                vec[i] = i * i;
+            }   
+
+            foreach (int i in vec)
+            {
+                Console.Write(i + " ");
+            }
+
+            int soma_impar = 0;
+
+            Console.WriteLine("\nApenas os pares: ");
+
+            foreach (int i in vec)
+            {
+                if (i % 2 == 0)
+                {
+                    Console.Write(i + " ");
+                }else
+                {
+                    soma_impar += i;
+                }
+            }
+
+            Console.WriteLine("\nSoma dos impares: " + soma_impar);
         }
     }
 }

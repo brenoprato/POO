@@ -1,11 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "iIYOBgskGfc=",
+  "dgSpecHash": "ScHs2sxUl0M=",
   "success": true,
   "projectFilePath": "/home/BRENO/Documents/Unifesp/POO/namorar_comigo/namorar_comigo.csproj",
   "expectedPackageFiles": [
     "/home/BRENO/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "/home/BRENO/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.3/microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "/home/BRENO/Documents/Unifesp/POO/namorar_comigo/namorar_comigo.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/BRENO/Documents/Unifesp/POO/namorar_comigo/namorar_comigo.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

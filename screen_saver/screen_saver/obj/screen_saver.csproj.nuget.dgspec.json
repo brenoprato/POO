@@ -52,7 +52,7 @@
               "version": "[1.0.3, )"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/10.0.112/RuntimeIdentifierGraph.json"
         }
       }
     }
