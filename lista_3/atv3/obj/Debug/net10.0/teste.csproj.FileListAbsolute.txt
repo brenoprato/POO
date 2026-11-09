@@ -1,0 +1,15 @@
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/bin/Debug/net10.0/teste
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/bin/Debug/net10.0/teste.deps.json
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/bin/Debug/net10.0/teste.runtimeconfig.json
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/bin/Debug/net10.0/teste.dll
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/bin/Debug/net10.0/teste.pdb
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/obj/Debug/net10.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/obj/Debug/net10.0/teste.AssemblyInfoInputs.cache
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/obj/Debug/net10.0/teste.AssemblyInfo.cs
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/obj/Debug/net10.0/teste.csproj.CoreCompileInputs.cache
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/obj/Debug/net10.0/teste.sourcelink.json
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/obj/Debug/net10.0/teste.dll
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/obj/Debug/net10.0/refint/teste.dll
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/obj/Debug/net10.0/teste.pdb
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/obj/Debug/net10.0/teste.genruntimeconfig.cache
+/home/BRENO/Documents/Unifesp/POO/lista_3/atv3/obj/Debug/net10.0/ref/teste.dll

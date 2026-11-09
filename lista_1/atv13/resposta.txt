@@ -1,0 +1,47 @@
+================================================================================
+EXERCÍCIO 13 - COMPARAÇÃO DE ROTAÇÃO DE MATRIZ 90° (AUXILIAR VS IN-PLACE)
+================================================================================
+
+1. TABELA COMPARATIVA DE COMPLEXIDADE TEÓRICA
+
++-----------------------+-----------------------+-----------------------+
+| Abordagem             | Complexidade Temporal | Complexidade Espacial |
++-----------------------+-----------------------+-----------------------+
+| Matriz Auxiliar       | O(n²)                 | O(n²)                 |
+| In-Place              | O(n²)                 | O(1)                  |
++-----------------------+-----------------------+-----------------------+
+
+
+2. DISCUSSÃO TEÓRICA
+
+a) Rotação com Matriz Auxiliar:
+   - Temporal: O(n²), pois é necessário iterar sobre todos os n² elementos da matriz
+     para posicioná-los na matriz de destino segundo a regra: aux[j, n - 1 - i] = mat[i, j].
+   - Espacial: O(n²), pois requer alocar uma segunda matriz de dimensões n x n na memória heap.
+
+b) Rotação In-Place:
+   - Temporal: O(n²), dividida em duas etapas de troca direta:
+     1. Transposição da matriz (troca mat[i, j] com mat[j, i] para j > i): realiza n*(n - 1)/2 operações.
+     2. Inversão horizontal das colunas em cada linha (troca mat[i, j] com mat[i, n - 1 - j]): realiza n*(n / 2) operações.
+     Ambas as etapas totalizam um tempo assintótico quadrático O(n²).
+   - Espacial: O(1), pois a rotação é realizada na própria matriz original,
+     utilizando apenas uma variável temporária escalar para realizar os swaps, sem alocação de memória adicional proporcional a n.
+
+
+3. RESULTADOS PRÁTICOS (BENCHMARK COM STOPWATCH)
+
+Resultados obtidos ao executar o programa com diferentes ordens N:
+
++--------+--------------------+-------------------+
+| N      | Auxiliar (ms)      | In-Place (ms)     |
++--------+--------------------+-------------------+
+| 100    | ~0.08 ms           | ~0.11 ms          |
+| 500    | ~2.01 ms           | ~2.99 ms          |
+| 1000   | ~8.41 ms           | ~12.08 ms         |
++--------+--------------------+-------------------+
+
+Discussão dos tempos:
+- Em termos de tempo absoluto, ambas as abordagens operam em escala de poucos milissegundos para ordens até 1000.
+- A solução auxiliar realiza apenas uma escrita por elemento, enquanto a rotação in-place realiza duas passadas completas (transposição seguida de inversão de colunas).
+- Entretanto, a solução in-place é substancialmente mais eficiente em consumo de memória (espaço O(1)), tornando-se a única viável quando a matriz é muito grande e a memória principal é limitada.
+================================================================================

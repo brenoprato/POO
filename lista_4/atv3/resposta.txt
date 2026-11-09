@@ -1,0 +1,11 @@
+Exercício 3:
+
+(a) Falsa. O método Console.WriteLine(q1) chama internamente q1.ToString(). Como a classe Q não sobrescreveu o método ToString(), a execução utiliza a implementação padrão de System.Object, exibindo o nome do tipo/classe (ex: "MyApp.Q"), e não o cálculo numérico "0.5".
+
+(b) Falsa. O código gera erro de compilação na linha "q1 + q2". Em C#, classes definidas pelo usuário não suportam operadores aritméticos por padrão; para isso, seria obrigatório implementar a sobrecarga do operador "+" (public static Q operator +(Q a, Q b)).
+
+(c) Falsa. Os atributos Numerador e Denominador são privados (private). Tentar acessá-los diretamente fora da classe (como no Main) causa erro de compilação. O acesso deve ser feito pelos métodos de leitura: q1.GetNumerador() e q1.GetDenominador().
+
+(d) Falsa. A instrução "Q q3;" apenas declara uma variável de referência do tipo Q. Nenhum objeto foi alocado na memória Heap, pois o operador "new" não foi chamado; a variável permanece não inicializada / nula.
+
+(e) Verdadeira. A afirmação descreve exatamente os dois erros do código: a expressão "q1 + q2" não compila devido à ausência de sobrecarga do operador "+", e a instanciação "new Q(1, 0)" lança uma exceção em tempo de execução dentro de SetDenominador ao verificar denominador igual a zero.

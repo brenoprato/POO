@@ -1,0 +1,10 @@
+/home/BRENO/Documents/Unifesp/POO/lista_1/atv24/bin/Debug/net472/teste.exe.config
+/home/BRENO/Documents/Unifesp/POO/lista_1/atv24/bin/Debug/net472/teste.exe
+/home/BRENO/Documents/Unifesp/POO/lista_1/atv24/bin/Debug/net472/teste.pdb
+/home/BRENO/Documents/Unifesp/POO/lista_1/atv24/obj/Debug/net472/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/BRENO/Documents/Unifesp/POO/lista_1/atv24/obj/Debug/net472/teste.AssemblyInfoInputs.cache
+/home/BRENO/Documents/Unifesp/POO/lista_1/atv24/obj/Debug/net472/teste.AssemblyInfo.cs
+/home/BRENO/Documents/Unifesp/POO/lista_1/atv24/obj/Debug/net472/teste.csproj.CoreCompileInputs.cache
+/home/BRENO/Documents/Unifesp/POO/lista_1/atv24/obj/Debug/net472/teste.sourcelink.json
+/home/BRENO/Documents/Unifesp/POO/lista_1/atv24/obj/Debug/net472/teste.exe
+/home/BRENO/Documents/Unifesp/POO/lista_1/atv24/obj/Debug/net472/teste.pdb

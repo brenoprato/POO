@@ -1,0 +1,5 @@
+(a) Métodos abstratos não possuem implementação (ou corpo) e devem ser sobrescritos (ou implementados com override) nas classes derivadas.
+(b) Uma classe abstrata pode conter métodos abstratos e métodos concretos (ou atributos e métodos).
+(c) Interfaces não possuem atributos (campos/estado) nem construtores (ou implementação), apenas assinaturas.
+(d) Para declarar uma classe como abstrata usamos a palavra-chave abstract.
+(e) Para implementar uma interface usamos a palavra-chave/operador : (dois-pontos em C#) ou implements (em linguagens como Java).

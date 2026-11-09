@@ -1,0 +1,5 @@
+(a) Ocorre um erro de compilação, pois 'Animal' é uma classe abstrata (abstract class) e classes abstratas não podem ser instanciadas diretamente com o operador 'new'.
+
+(b) Porque o método 'Falar()' foi declarado como 'abstract' na classe mãe 'Animal', exigindo obrigatoriamente que a subclasse concreta forneça sua implementação por meio da palavra-chave 'override'.
+
+(c) Porque 'Gato' assinou o contrato com a interface 'IAnimal' ('class Gato : IAnimal'), e qualquer classe que implementa uma interface é obrigada a fornecer a implementação de todas as operações definidas nessa interface.

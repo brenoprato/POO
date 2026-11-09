@@ -1,0 +1,15 @@
+Exercício 4:
+
+(a) Não. O código compila sem erros sintáticos, porém falha em tempo de execução ao tentar executar "fracoes[0].SetNumerador(1);", gerando a exceção NullReferenceException.
+
+(b) O comando aloca na memória Heap a estrutura de um vetor (array) com 3 posições para referências do tipo Q. Nenhuma instância da classe Q é construída nesse momento; os 3 elementos são inicializados com o valor "null".
+
+(c) Ocorre erro porque fracoes[0] e fracoes[2] contêm o valor "null" (nenhum objeto foi instanciado para essas posições). Tentar invocar métodos a partir de uma referência nula resulta em NullReferenceException.
+
+(d) Cada posição do vetor deve ser devidamente instanciada com "new" antes do uso:
+Q[] fracoes = new Q[3];
+fracoes[0] = new Q(1, 2);
+fracoes[1] = new Q(3, 4);
+fracoes[2] = new Q(5, 6);
+
+(e) Definir o tamanho do vetor (new Q[3]) reserva espaço de memória contíguo apenas para armazenar as referências (endereços) dos objetos, inicializando cada posição com "null". Instanciar os objetos (new Q(...)) aloca na Heap o espaço real de dados de cada objeto, executa seu construtor e armazena o endereço desse novo objeto na respectiva posição do vetor.

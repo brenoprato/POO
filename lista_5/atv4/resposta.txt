@@ -1,0 +1,5 @@
+- Herdar de uma classe abstrata: Estabelece uma relação estrutural de identidade ("é um"), permitindo herdar e compartilhar atributos, construtores e implementações de métodos concretos. No C#, uma classe pode herdar de apenas uma classe base (herança simples).
+  Exemplo: 'Cachorro' herda da classe abstrata 'Animal' (Cachorro é um Animal, compartilhando a propriedade 'Nome' e o método concreto 'Dormir()').
+
+- Implementar uma interface: Estabelece um contrato de capacidade ("sabe fazer"), sem herdar código pronto nem atributos de instância. Uma classe pode implementar múltiplas interfaces.
+  Exemplo: As classes 'Cachorro' e 'Automovel' podem implementar a interface 'IRastreavel', garantindo que ambos tenham o método 'ObterCoordenadas()', mesmo sendo entidades de naturezas totalmente distintas.

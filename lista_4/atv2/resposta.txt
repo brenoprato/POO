@@ -1,0 +1,11 @@
+Exercício 2:
+
+Existem dois problemas de orientação a objetos na definição da classe B:
+
+1. Ausência de chamada ao construtor da classe base:
+A classe base A não possui construtor sem parâmetros (default); ela exige três inteiros. Como B define o construtor "public B(int w)", o C# tenta chamar implicitamente "base()", que não existe em A.
+Correção: Chamar explicitamente o construtor da classe base por meio de ": base(x, y, z)", ajustando o construtor de B para: "public B(int x, int y, int z, int w) : base(x, y, z)".
+
+2. Violação de visibilidade e encapsulamento:
+No método MostraValores(), tenta-se acessar diretamente "this.x", porém o atributo "x" foi declarado com o modificador "private" na classe A. Membros privados não são acessíveis por classes derivadas.
+Correção: Alterar a visibilidade de "x" na classe A para "protected", ou criar um método de acesso público/protegido na classe A (ex: "public int GetX() => this.x;") e utilizá-lo na classe B ("this.GetX()").

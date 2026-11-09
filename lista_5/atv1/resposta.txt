@@ -1,0 +1,5 @@
+(a) Classe abstrata: É uma classe incompleta que não pode ser instanciada diretamente com 'new', servindo de modelo base para subclasses. Pode conter atributos (estado), construtores, métodos concretos (com implementação compartilhada) e métodos abstratos (que obrigam a implementação nas classes filhas).
+
+(b) Interface: É um contrato puro de comportamento que define assinaturas de métodos que as classes devem implementar. Não possui atributos de instância nem construtores, permitindo que uma classe implemente múltiplas interfaces simultaneamente.
+
+(c) É mais apropriado usar classe abstrata quando existe uma relação estrita de hierarquia do tipo "é um(a)" e deseja-se compartilhar código pronto (métodos concretos) ou estado (atributos/propriedades e construtores) entre as classes derivadas.

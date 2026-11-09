@@ -1,0 +1,6 @@
+Exercício 1:
+
+(a) O identificador "this" faz referência à instância atual do objeto. No código apresentado, ele é necessário para diferenciar os atributos da classe (this.x, this.y, this.z) dos parâmetros homônimos recebidos no construtor (x, y, z), resolvendo o sombreamento de nomes (shadowing). Sem o "this", a atribuição "x = x" atribuiria o parâmetro a ele mesmo, sem alterar o valor do atributo.
+
+(b) Não, o compilador emitirá um erro de compilação (CS0111). O conceito de orientação a objetos violado foi a sobrecarga de construtores (polimorfismo estático), que exige assinaturas distintas (quantidade, tipos ou ordem de parâmetros diferentes). Ambos os construtores possuem a mesma assinatura A(int, int, int).
+Para corrigir, deve-se alterar a assinatura de um dos construtores (adicionando outro parâmetro, como um booleano) ou unificar as lógicas em um único construtor.

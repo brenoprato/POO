@@ -1,0 +1,6 @@
+(F) Classes abstratas podem ser instanciadas diretamente.
+(F) Interfaces podem conter atributos (campos).
+(V) Uma classe pode implementar múltiplas interfaces ao mesmo tempo.
+(V) Classes abstratas podem conter métodos concretos e abstratos.
+(V) Interfaces definem apenas contratos de comportamento.
+(V) Uma interface pode herdar de outra interface.
