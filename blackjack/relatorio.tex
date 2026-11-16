@@ -200,7 +200,7 @@ O projeto implementa o jogo de cartas \textbf{Blackjack (21)} em \textbf{C\# (.N
     \item \textbf{\texttt{BlackjackGame} (\texttt{src/Game/BlackjackGame.cs}):} Classe controladora da partida. Demonstra \textbf{Composição e Associação entre classes} ao coordenar instâncias de \texttt{Deck}, \texttt{Player}, \texttt{Dealer} e os três objetos \texttt{Button}, separando a atualização lógica (\texttt{Update()}) da renderização visual (\texttt{Draw()}).
 \end{enumerate}
 
-\section*{4. Exemplos de Uso e Divisão do Projeto}
+\section*{4. Exemplos de Uso}
 
 Durante a execução da aplicação gráfica (1280$\times$720 a 60 FPS), o usuário interage com os três botões principais:
 \begin{itemize}
@@ -208,20 +208,5 @@ Durante a execução da aplicação gráfica (1280$\times$720 a 60 FPS), o usuá
     \item \textbf{Botão ``Parar'':} Encerra a vez do jogador, revela a segunda carta da Banca e executa o laço de compra inteligente da Banca até que ela alcance a pontuação do jogador ou ultrapasse 21, exibindo o vencedor no painel central.
     \item \textbf{Botão ``Reiniciar Jogo'':} Limpa a mesa, reembaralha o baralho e inicia uma nova rodada.
 \end{itemize}
-
-\vspace{0.3em}
-\begin{table}[h!]
-\centering
-\small
-\begin{tabular}{lll}
-\toprule
-\textbf{Integrante} & \textbf{Arquivos Desenvolvidos} & \textbf{Foco Principal} \\
-\midrule
-Breno Porto P. do Prado (185196) & \texttt{Card.cs}, \texttt{Deck.cs} & Modelo de carta, sobrecarga e baralho \\
-Felipe Pereira Silva (188204) & \texttt{Player.cs}, \texttt{Dealer.cs} & Pontuação/Ás, herança e decisão da banca \\
-Guilherme Bento Ramos (185226) & \texttt{BlackjackGame.cs}, \texttt{Button.cs} & Fluxo de turnos, regras finais e interface \\
-\bottomrule
-\end{tabular}
-\end{table}
 
 \end{document}
